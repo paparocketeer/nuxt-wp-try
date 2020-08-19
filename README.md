@@ -1,4 +1,8 @@
-# nuxt-wp-try
+Nuxt + headless Wordpress on JAMstack
+
+[Demo](https://nuxt-wp-try.netlify.app/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/18e83808-53f9-483f-85e7-4a5dbeae34fa/deploy-status)](https://app.netlify.com/sites/nuxt-wp-try/deploys)
 
 ## Build Setup
 
